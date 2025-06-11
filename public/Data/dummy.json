@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 99.99,
+    "category": "Electronics",
+    "stock": 25,
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "imageUrl": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Fitness Tracker",
+    "price": 49.99,
+    "category": "Sports",
+    "stock": 0,
+    "description": "Track your steps, calories, and heart rate.",
+    "imageUrl": "https://via.placeholder.com/150"
+  }
+]
